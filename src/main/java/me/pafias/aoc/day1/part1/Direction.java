@@ -1,4 +1,4 @@
-package me.pafias.aoc.day1;
+package me.pafias.aoc.day1.part1;
 
 public enum Direction {
 
