@@ -1,4 +1,4 @@
-package me.pafias.aoc.day5;
+package me.pafias.aoc.day5.part1;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
